@@ -293,7 +293,7 @@ div.btcont .btn-custom{
 
 div.btcont.ver-mais .btn-custom{
   color: white;
-  background:rgba(30, 48, 80, 1.0);
+  background:#2ab200;
   padding: 10px 70px 10px 70px;
 }
 div.btcont.ver-mais .btn-custom:hover{
@@ -304,11 +304,12 @@ div.btcont.ver-mais .btn-custom:hover{
 
 div.btcont.what .btn-custom{
   color: white;
-  background:#2ab200;
+   background:rgba(30, 48, 80, 1.0);
+  
 }
 div.btcont.what .btn-custom:hover{
   color: white;
-  background:black;
+   background:rgba(51, 51, 51, 1.0);
 
 }
 
