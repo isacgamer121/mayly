@@ -251,6 +251,14 @@ section#produtos h2.titulo-secao{
    
 }
 
+section#produtos .galeria h2.titulo-secao {
+    color: #c30371;
+    margin: 10px auto 10px auto;
+    background: transparent;
+    font-size: 2em;
+}
+
+
 div.background-padrao{
   background: #fbf3f3;
   border: 2px solid transparent;
